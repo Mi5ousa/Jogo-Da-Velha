@@ -424,8 +424,6 @@ while gameloop:
                         esc = input("Quer Recomeçar? (s/n): ")
                         if esc.lower() == "s":
                             table = [[0, 0, 0], [0, 0, 0], [0, 0, 0]]
-                            #desenhar_table(table)
-                            #table = player1(table)
                             break
                         elif esc.lower() == "n":
                             PxBloop = False
@@ -438,8 +436,6 @@ while gameloop:
                         esc = input("Quer Recomeçar? (s/n): ")
                         if esc.lower() == "s":
                             table = [[0, 0, 0], [0, 0, 0], [0, 0, 0]]
-                            #desenhar_table(table)
-                            #table = player1(table)
                             break
                         elif esc.lower() == "n":
                             PxBloop = False
@@ -454,8 +450,6 @@ while gameloop:
                         esc = input("Quer Recomeçar? (s/n): ")
                         if esc.lower() == "s":
                             table = [[0, 0, 0], [0, 0, 0], [0, 0, 0]]
-                            #desenhar_table(table)
-                            #table = player1(table)
                             break
                         elif esc.lower() == "n":
                             PxBloop = False
@@ -468,8 +462,6 @@ while gameloop:
                         esc = input("Quer Recomeçar? (s/n): ")
                         if esc.lower() == "s":
                             table = [[0, 0, 0], [0, 0, 0], [0, 0, 0]]
-                            #desenhar_table(table)
-                            #table = player1(table)
                             break
                         elif esc.lower() == "n":
                             PxBloop = False
@@ -484,8 +476,6 @@ while gameloop:
                     esc = input("Quer Recomeçar? (s/n): ")
                     if esc.lower() == "s":
                         table = [[0, 0, 0], [0, 0, 0], [0, 0, 0]]
-                        #desenhar_table(table)
-                        #table = player1(table)
                         break
                     elif esc.lower() == "n":
                         PxBloop = False
